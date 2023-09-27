@@ -2,9 +2,11 @@
 
 [1] **Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision**  
   - **Authors:** Yu-Hsing Hsieh, Guan-Sheng Chen, Shun-Xian Cai, Ting-Yun Wei, Huei-Fang Yang, Chu-Song Chen
-  - **Affiliations:** 
-  - **Keywords:** Segmentation
-  - **links**: [paper], [code]
+  - **Affiliations:**
+    - Dept. Computer Science and Information Engineering, National Taiwan University, Taiwan
+    - Dept. Information Management, National Sun Yat-sen University, Taiwan
+  - **Keywords:** Instance Segmentation, Weakly-supervised Learning
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hsieh_Class-incremental_Continual_Learning_for_Instance_Segmentation_with_Image-level_Weak_Supervision_ICCV_2023_paper.pdf), [[code]](https://github.com/AI-Application-and-Integration-Lab/CL4WSIS)
 
 [2] **MetaGCD: Learning to Continually Learn in Generalized Category Discovery**  
   - **Authors:** Yanan Wu, Zhixiang Chi, Yang Wang, Songhe Feng
@@ -14,21 +16,29 @@
 
 [3] **ICICLE: Interpretable Class Incremental Continual Learning**  
   - **Authors:** Dawid Rymarczyk, Joost van de Weijer, Bartosz Zieli?ski, Bartlomiej Twardowski
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Faculty of Mathematics and Computer Science, Jagiellonian University
+    - Doctoral School of Exact and Life Sciences, Jagiellonian University
+    - Ardigen SA
+    - Autonomous University of Barcelona
+    - Computer Vision Center
+    - IDEAS NCBR
   - **Keywords:** Explainable AI
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Rymarczyk_ICICLE_Interpretable_Class_Incremental_Continual_Learning_ICCV_2023_paper.pdf), [code]
 
 [4] **Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering**  
   - **Authors:** Zi Qian, Xin Wang, Xuguang Duan, Pengda Qin, Yuhong Li, Wenwu Zhu
-  - **Affiliations:** 
+  - **Affiliations:**
   - **Keywords:** Visual Question Answering
   - **links**: [paper], [code]
 
 [5] **TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation**  
   - **Authors:** Jie Zhang, Chen Chen, Weiming Zhuang, Lingjuan Lyu
-  - **Affiliations:** 
+  - **Affiliations:**
+    - ETH Zurich
+    - Sony AI 
   - **Keywords:** Federated Learning
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.pdf), [code]
 
 [6] **Instance and Category Supervision are Alternate Learners for Continual Learning**  
   - **Authors:** Xudong Tian, Zhizhong Zhang, Xin Tan, Jun Liu, Chengjie Wang, Yanyun Qu, Guannan Jiang, Yuan Xie
@@ -56,9 +66,12 @@
 
 [10] **Class-Incremental Grouping Network for Continual Audio-Visual Learning**  
   - **Authors:** Shentong Mo, Weiguo Pian, Yapeng Tian
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Carnegie Mellon University
+    - University of Texas at Dallas
+    - University of Texas at Dallas 
   - **Keywords:** Audio-Visual Learning
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Mo_Class-Incremental_Grouping_Network_for_Continual_Audio-Visual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/stoneMo/CIGN)
 
 [11] **Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less**  
   - **Authors:** Rizhao Cai, Yawen Cui, Zhi Li, Zitong Yu, Haoliang Li, Yongjian Hu, Alex Kot
@@ -87,49 +100,70 @@
 
 [15] **Introducing Language Guidance in Prompt-based Continual Learning**  
   - **Authors:** Muhammad Gul Zain Ali Khan, Muhammad Ferjad Naeem, Luc Van Gool, Didier Stricker, Federico Tombari, Muhammad Zeshan Afzal
-  - **Affiliations:** 
+  - **Affiliations:**
+    - RPTU
+    - DFKI
+    - ETH Zurich
+    - TUM
+    - Google 
   - **Keywords:** Prompt-based
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khan_Introducing_Language_Guidance_in_Prompt-based_Continual_Learning_ICCV_2023_paper.pdf), [code]
 
 [16] **A Unified Continual Learning Framework with General Parameter-Efficient Tuning**  
   - **Authors:** Qiankun Gao, Chen Zhao, Yifan Sun, Teng Xi, Gang Zhang, Bernard Ghanem, Jian Zhang
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Peking University Shenzhen Graduate School
+    - King Abdullah University of Science and Technology (KAUST)
+    - Baidu Inc. 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_A_Unified_Continual_Learning_Framework_with_General_Parameter-Efficient_Tuning_ICCV_2023_paper.pdf), [[code]](https://github.com/gqk/LAE)
 
 
 [17] **Towards Realistic Evaluation of Industrial Continual Learning Scenarios with an Emphasis on Energy Consumption and Computational Footprint**  
   - **Authors:** Vivek Chavan, Paul Koch, Marian Schlüter, Clemens Briese
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Fraunhofer IPK, Berlin, Germany 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chavan_Towards_Realistic_Evaluation_of_Industrial_Continual_Learning_Scenarios_with_an_ICCV_2023_paper.pdf), [[code]](https://github.com/Vivek9Chavan/RECIL)
 
 
 [18] **Continual Zero-Shot Learning through Semantically Guided Generative Random Walks**  
   - **Authors:** Wenxuan Zhang, Paul Janson, Kai Yi, Ivan Skorokhodov, Mohamed Elhoseiny
-  - **Affiliations:** 
+  - **Affiliations:**
+    - KAUST
+    - University of Moratuwa 
   - **Keywords:** Zero-Shot Learning
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Continual_Zero-Shot_Learning_through_Semantically_Guided_Generative_Random_Walks_ICCV_2023_paper.pdf), [[code]](https://github.com/wx-zhang/IGCZSL)
 
 [19] **NAPA-VQ: Neighborhood-Aware Prototype Augmentation with Vector Quantization for Continual Learning**  
   - **Authors:** Tamasha Malepathirana, Damith Senanayake, Saman Halgamuge
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Dept. of Mechanical Engineering The University of Melbourne
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Malepathirana_NAPA-VQ_Neighborhood-Aware_Prototype_Augmentation_with_Vector_Quantization_for_Continual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/TamashaM/NAPA-VQ)
 
 
 [20] **Learning to Learn: How to Continuously Teach Humans and Machines**  
   - **Authors:** Parantak Singh, You Li, Ankur Sikarwar, Stan Weixian Lei, Difei Gao, Morgan B. Talbot, Ying Sun, Mike Zheng Shou, Gabriel Kreiman, Mengmi Zhang
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Nanyang Technological University (NTU), Singapore
+    - CFAR and I2R, Agency for Science, Technology and Research, Singapore
+    - University of Wisconsin-Madison, USA
+    - Show Lab, National University of Singapore, Singapore
+    - Boston Children’s Hospital, Harvard Medical School, USA
+    - Harvard-MIT Health Sciences and Technology, MIT 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Singh_Learning_to_Learn_How_to_Continuously_Teach_Humans_and_Machines_ICCV_2023_paper.pdf), [[code]](https://github.com/ZhangLab-DeepNeuroCogLab/Learning2Learn)
 
 
 [21] **Online Continual Learning on Hierarchical Label Expansion**  
   - **Authors:** Byung Hyun Lee, Okchul Jung, Jonghyun Choi, Se Young Chun
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Dept. of ECE
+    - INMC & IPAI, Seoul National University, Republic of Korea
+    - Yonsei University, Republic of Korea
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Online_Continual_Learning_on_Hierarchical_Label_Expansion_ICCV_2023_paper.pdf), [code]
 
 
 [22] **Generating Instance-level Prompts for Rehearsal-free Continual Learning**  
