@@ -56,13 +56,13 @@
   - **Authors:** Haoyang Cheng, Haitao Wen, Xiaoliang Zhang, Heqian Qiu, Lanxiao Wang, Hongliang Li
   - **Affiliations:** 
   - **Keywords:** Self-Supervised Learning
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_Contrastive_Continuity_on_Augmentation_Stability_Rehearsal_for_Continual_Self-Supervised_Learning_ICCV_2023_paper.pdf), [code]
 
 [9] **Exemplar-Free Continual Transformer with Convolutions**  
   - **Authors:** Anurag Roy, Vinay K. Verma, Sravan Voonna, Kripabandhu Ghosh, Saptarshi Ghosh, Abir Das
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Roy_Exemplar-Free_Continual_Transformer_with_Convolutions_ICCV_2023_paper.pdf), [code]
 
 [10] **Class-Incremental Grouping Network for Continual Audio-Visual Learning**  
   - **Authors:** Shentong Mo, Weiguo Pian, Yapeng Tian
@@ -77,25 +77,25 @@
   - **Authors:** Rizhao Cai, Yawen Cui, Zhi Li, Zitong Yu, Haoliang Li, Yongjian Hu, Alex Kot
   - **Affiliations:** 
   - **Keywords:** Face Anti-Spoofing
-  - **links**: [paper], [code]    
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Rehearsal-Free_Domain_Continual_Face_Anti-Spoofing_Generalize_More_and_Forget_Less_ICCV_2023_paper.pdf), [[code]](https://github.com/RizhaoCai/DCL-FAS-ICCV2023)    
 
 [12] **DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation**  
   - **Authors:** Hanqing Wang, Wei Liang, Luc Van Gool, Wenguan Wang
   - **Affiliations:** 
   - **Keywords:** Vision-Language Navigation
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_DREAMWALKER_Mental_Planning_for_Continuous_Vision-Language_Navigation_ICCV_2023_paper.pdf), [[code]](https://github.com/HanqingWangAI/Dreamwalker)
 
 [13] **Measuring Asymmetric Gradient Discrepancy in Parallel Continual Learning**  
   - **Authors:** Fan Lyu, Qing Sun, Fanhua Shang, Liang Wan, Wei Feng
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lyu_Measuring_Asymmetric_Gradient_Discrepancy_in_Parallel_Continual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/fanlyu/maxdo)
 
 [14] **Complementary Domain Adaptation and Generalization for Unsupervised Continual Domain Shift Learning**  
   - **Authors:** Wonguk Cho, Jinha Park, Taesup Kim
   - **Affiliations:** 
   - **Keywords:** Unsupervised Domain Shift Learning
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Complementary_Domain_Adaptation_and_Generalization_for_Unsupervised_Continual_Domain_Shift_ICCV_2023_paper.pdf), [code]
 
 
 [15] **Introducing Language Guidance in Prompt-based Continual Learning**  
@@ -170,76 +170,77 @@
   - **Authors:** Dahuin Jung, Dongyoon Han, Jihwan Bang, Hwanjun Song
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf), [code]
 
 [23] **A Soft Nearest-Neighbor Framework for Continual Semi-Supervised Learning**  
   - **Authors:** Zhiqi Kang, Enrico Fini, Moin Nabi, Elisa Ricci, Karteek Alahari
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kang_A_Soft_Nearest-Neighbor_Framework_for_Continual_Semi-Supervised_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/kangzhiq/NNCSL)
 
 [24] **Preparing the Future for Continual Semantic Segmentation**  
   - **Authors:** Zihan Lin, Zilei Wang, Yixin Zhang
   - **Affiliations:** 
   - **Keywords:** Semantic Segmentation
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Preparing_the_Future_for_Continual_Semantic_Segmentation_ICCV_2023_paper.pdf), [code]
 
 [25] **Space-time Prompting for Video Class-incremental Learning**  
   - **Authors:** Yixuan Pei, Zhiwu Qing, Shiwei Zhang, Xiang Wang, Yingya Zhang, Deli Zhao, Xueming Qian
   - **Affiliations:** 
   - **Keywords:** Video
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Pei_Space-time_Prompting_for_Video_Class-incremental_Learning_ICCV_2023_paper.pdf), [code]
 
 
 [26] **Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery**  
   - **Authors:** Hyungmin Kim, Sungho Suh, Daehwan Kim, Daun Jeong, Hansang Cho, Junmo Kim
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Proxy_Anchor-based_Unsupervised_Learning_for_Continuous_Generalized_Category_Discovery_ICCV_2023_paper.pdf), [code]
 
 
 [27] **Towards Geospatial Foundation Models via Continual Pretraining**  
   - **Authors:** Matías Mendieta, Boran Han, Xingjian Shi, Yi Zhu, Chen Chen
   - **Affiliations:** 
   - **Keywords:** Geospatial Foundation Models
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Mendieta_Towards_Geospatial_Foundation_Models_via_Continual_Pretraining_ICCV_2023_paper.pdf), [[code]](https://github.com/mmendiet/GFM)
 
 [28] **Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds**  
   - **Authors:** Ze Yang, Ruibo Li, Evan Ling, Chi Zhang, Yiming Wang, Dezhao Huang, Keng Teck Ma, Minhoe Hur, Guosheng Lin
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.pdf), [[code]](https://github.com/Ze-Yang/LGKD)
 
 
 [29] **Wasserstein Expansible Variational Autoencoder for Discriminative and Generative Continual Learning**  
   - **Authors:** Fei Ye, Adrian G. Bors
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Wasserstein_Expansible_Variational_Autoencoder_for_Discriminative_and_Generative_Continual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/dtuzi123/WEVAE/)
 
 [30] **Tangent Model Composition for Ensembling and Continual Fine-tuning**  
   - **Authors:** Tian Yu Liu, Stefano Soatto
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Tangent_Model_Composition_for_Ensembling_and_Continual_Fine-tuning_ICCV_2023_paper.pdf), [code]
 
 [31] **Online Prototype Learning for Online Continual Learning**  
   - **Authors:** 
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Online_Prototype_Learning_for_Online_Continual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/weilllllls/OnPro)
 
-[32] **Yujie Wei, Jiaxin Ye, Zhizhong Huang, Junping Zhang, Hongming Shan**  
-  - **Authors:** 
+
+[32] **LFS-GAN: Lifelong Few-Shot Image Generation**  
+  - **Authors:** Juwon Seo, Ji-Su Kang, Gyeong-Moon Park
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Seo_LFS-GAN_Lifelong_Few-Shot_Image_Generation_ICCV_2023_paper.pdf), [[code]](https://github.com/JJuOn/LFS-GAN)
 
 [33] **CLR: Channel-wise Lightweight Reprogramming for Continual Learning**  
   - **Authors:** Yunhao Ge, Yuecheng Li, Shuo Ni, Jiaping Zhao, Ming-Hsuan Yang, Laurent Itti
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ge_CLR_Channel-wise_Lightweight_Reprogramming_for_Continual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming)
 
 [34] **Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation**  
   - **Authors:** Haozhi Cao, Yuecong Xu, Jianfei Yang, Pengyu Yin, Shenghai Yuan, Lihua Xie
@@ -460,8 +461,3 @@
   - **links**: [paper], [code]
 
 
-[66] **LFS-GAN: Lifelong Few-Shot Image Generation**  
-  - **Authors:** Juwon Seo, Ji-Su Kang, Gyeong-Moon Park
-  - **Affiliations:** 
-  - **Keywords:** 
-  - **links**: [paper], [code]
