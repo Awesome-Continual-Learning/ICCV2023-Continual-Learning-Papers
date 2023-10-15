@@ -10,7 +10,11 @@
 
 [2] **MetaGCD: Learning to Continually Learn in Generalized Category Discovery**  
   - **Authors:** Yanan Wu, Zhixiang Chi, Yang Wang, Songhe Feng
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, Beijing Jiaotong University, Beijing, 100044, China
+    - School of Computer and Information Technology, Beijing Jiaotong University, Beijing, 100044, China
+    - 3Department of Electrical and Computer Engineering, University of Toronto, Toronto, M5G1V7, Canada
+    - Department of Computer Science and Software Engineering, Concordia University, Montreal, H3G2J1, Canada
   - **Keywords:** Generalized Category Discovery
   - **links**: [[paper]](https://openaccess.thecvf.com//content/ICCV2023/papers/Wu_MetaGCD_Learning_to_Continually_Learn_in_Generalized_Category_Discovery_ICCV_2023_paper.pdf), [code]
 
@@ -29,6 +33,8 @@
 [4] **Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering**  
   - **Authors:** Zi Qian, Xin Wang, Xuguang Duan, Pengda Qin, Yuhong Li, Wenwu Zhu
   - **Affiliations:**
+    - Department of Computer Science and Technology, BNRist, Tsinghua University
+    - Alibaba Group
   - **Keywords:** Visual Question Answering
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_Decouple_Before_Interact_Multi-Modal_Prompt_Learning_for_Continual_Visual_Question_ICCV_2023_paper.pdf), [code]
 
@@ -42,25 +48,39 @@
 
 [6] **Instance and Category Supervision are Alternate Learners for Continual Learning**  
   - **Authors:** Xudong Tian, Zhizhong Zhang, Xin Tan, Jun Liu, Chengjie Wang, Yanyun Qu, Guannan Jiang, Yuan Xie
-  - **Affiliations:** 
+  - **Affiliations:**
+    - East China Normal University
+    - Shanghai Key Laboratory of Computer Software Testing & Evaluating
+    - Chongqing Institute of East China Normal University
+    - Tencent YouTu Lab
+    - Xiamen University
+    - Contemporary Amperex Technology Co., Limited
   - **Keywords:** 
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Instance_and_Category_Supervision_are_Alternate_Learners_for_Continual_Learning_ICCV_2023_paper.pdf), [code]
 
 [7] **Data Augmented Flatness-aware Gradient Projection for Continual Learning**  
   - **Authors:** Enneng Yang, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Northeastern University, China
+    - JD Explore Academy, China
+    - University of Maryland, USA
+    - The University of Texas at Austin, USA
   - **Keywords:** 
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf), [code]
 
 [8] **Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning**  
   - **Authors:** Haoyang Cheng, Haitao Wen, Xiaoliang Zhang, Heqian Qiu, Lanxiao Wang, Hongliang Li
-  - **Affiliations:** 
+  - **Affiliations:**
+    - University of Electronic Science and Technology of China, Chengdu, China
   - **Keywords:** Self-Supervised Learning
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_Contrastive_Continuity_on_Augmentation_Stability_Rehearsal_for_Continual_Self-Supervised_Learning_ICCV_2023_paper.pdf), [code]
 
 [9] **Exemplar-Free Continual Transformer with Convolutions**  
   - **Authors:** Anurag Roy, Vinay K. Verma, Sravan Voonna, Kripabandhu Ghosh, Saptarshi Ghosh, Abir Das
-  - **Affiliations:** 
+  - **Affiliations:**
+    - IIT Kharagpur
+    - IML Amazon India
+    - IISER Kolkata
   - **Keywords:** 
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Roy_Exemplar-Free_Continual_Transformer_with_Convolutions_ICCV_2023_paper.pdf), [code]
 
@@ -75,7 +95,14 @@
 
 [11] **Rehearsal-Free Domain Continual Face Anti-Spoofing: Generalize More and Forget Less**  
   - **Authors:** Rizhao Cai, Yawen Cui, Zhi Li, Zitong Yu, Haoliang Li, Yongjian Hu, Alex Kot
-  - **Affiliations:** 
+  - **Affiliations:**
+    - Rapid-Rich Object Search (ROSE) Lab, NTU-PKU Joint Research Institute, Nanyang Technological University
+    - University of Oulu
+    - Bytedance Ltd
+    - School of Computing and Information Technology, Great Bay University
+    - Great Bay Institute for Advanced Study
+    - City University of Hong Kong
+    - South China University of Technology
   - **Keywords:** Face Anti-Spoofing
   - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Rehearsal-Free_Domain_Continual_Face_Anti-Spoofing_Generalize_More_and_Forget_Less_ICCV_2023_paper.pdf), [[code]](https://github.com/RizhaoCai/DCL-FAS-ICCV2023)    
 
