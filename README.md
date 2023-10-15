@@ -12,7 +12,7 @@
   - **Authors:** Yanan Wu, Zhixiang Chi, Yang Wang, Songhe Feng
   - **Affiliations:** 
   - **Keywords:** Generalized Category Discovery
-  - **links**: [paper], [code]
+  - **links**: 【[paper]](https://openaccess.thecvf.com//content/ICCV2023/papers/Wu_MetaGCD_Learning_to_Continually_Learn_in_Generalized_Category_Discovery_ICCV_2023_paper.pdf), [code]
 
 [3] **ICICLE: Interpretable Class Incremental Continual Learning**  
   - **Authors:** Dawid Rymarczyk, Joost van de Weijer, Bartosz Zieli?ski, Bartlomiej Twardowski
