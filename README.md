@@ -30,7 +30,7 @@
   - **Authors:** Zi Qian, Xin Wang, Xuguang Duan, Pengda Qin, Yuhong Li, Wenwu Zhu
   - **Affiliations:**
   - **Keywords:** Visual Question Answering
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_Decouple_Before_Interact_Multi-Modal_Prompt_Learning_for_Continual_Visual_Question_ICCV_2023_paper.pdf), [code]
 
 [5] **TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation**  
   - **Authors:** Jie Zhang, Chen Chen, Weiming Zhuang, Lingjuan Lyu
@@ -44,13 +44,13 @@
   - **Authors:** Xudong Tian, Zhizhong Zhang, Xin Tan, Jun Liu, Chengjie Wang, Yanyun Qu, Guannan Jiang, Yuan Xie
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Instance_and_Category_Supervision_are_Alternate_Learners_for_Continual_Learning_ICCV_2023_paper.pdf), [code]
 
 [7] **Data Augmented Flatness-aware Gradient Projection for Continual Learning**  
   - **Authors:** Enneng Yang, Li Shen, Zhenyi Wang, Shiwei Liu, Guibing Guo, Xingwei Wang
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: [paper], [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf), [code]
 
 [8] **Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning**  
   - **Authors:** Haoyang Cheng, Haitao Wen, Xiaoliang Zhang, Heqian Qiu, Lanxiao Wang, Hongliang Li
