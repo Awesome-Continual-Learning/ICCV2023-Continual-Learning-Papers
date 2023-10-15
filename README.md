@@ -306,7 +306,7 @@
   - **Authors:** Ziqi Gu, Chunyan Xu, Jian Yang, Zhen Cui
   - **Affiliations:** 
   - **Keywords:** 
-  - **links**: 【[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Few-shot_Continual_Infomax_Learning_ICCV_2023_paper.pdf), [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Few-shot_Continual_Infomax_Learning_ICCV_2023_paper.pdf), [code]
 
 
 [44] **Label-Efficient Online Continual Object Detection in Streaming Video**  
