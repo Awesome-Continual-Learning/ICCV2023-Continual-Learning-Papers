@@ -16,7 +16,7 @@
     - 3Department of Electrical and Computer Engineering, University of Toronto, Toronto, M5G1V7, Canada
     - Department of Computer Science and Software Engineering, Concordia University, Montreal, H3G2J1, Canada
   - **Keywords:** Generalized Category Discovery
-  - **links**: [[paper]](https://openaccess.thecvf.com//content/ICCV2023/papers/Wu_MetaGCD_Learning_to_Continually_Learn_in_Generalized_Category_Discovery_ICCV_2023_paper.pdf), [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com//content/ICCV2023/papers/Wu_MetaGCD_Learning_to_Continually_Learn_in_Generalized_Category_Discovery_ICCV_2023_paper.pdf), [[code]](https://github.com/ynanwu/MetaGCD)
 
 [3] **ICICLE: Interpretable Class Incremental Continual Learning**  
   - **Authors:** Dawid Rymarczyk, Joost van de Weijer, Bartosz Zieli?ski, Bartlomiej Twardowski
@@ -28,7 +28,7 @@
     - Computer Vision Center
     - IDEAS NCBR
   - **Keywords:** Explainable AI
-  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Rymarczyk_ICICLE_Interpretable_Class_Incremental_Continual_Learning_ICCV_2023_paper.pdf), [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Rymarczyk_ICICLE_Interpretable_Class_Incremental_Continual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/gmum/ICICLE)
 
 [4] **Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering**  
   - **Authors:** Zi Qian, Xin Wang, Xuguang Duan, Pengda Qin, Yuhong Li, Wenwu Zhu
@@ -44,7 +44,7 @@
     - ETH Zurich
     - Sony AI 
   - **Keywords:** Federated Learning
-  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.pdf), [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.pdf), [[code]](https://github.com/zj-jayzhang/Federated-Class-Continual-Learning)
 
 [6] **Instance and Category Supervision are Alternate Learners for Continual Learning**  
   - **Authors:** Xudong Tian, Zhizhong Zhang, Xin Tan, Jun Liu, Chengjie Wang, Yanyun Qu, Guannan Jiang, Yuan Xie
@@ -66,7 +66,7 @@
     - University of Maryland, USA
     - The University of Texas at Austin, USA
   - **Keywords:** 
-  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf), [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf), [[code]](https://github.com/EnnengYang/DFGP)
 
 [8] **Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning**  
   - **Authors:** Haoyang Cheng, Haitao Wen, Xiaoliang Zhang, Heqian Qiu, Lanxiao Wang, Hongliang Li
@@ -82,7 +82,7 @@
     - IML Amazon India
     - IISER Kolkata
   - **Keywords:** 
-  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Roy_Exemplar-Free_Continual_Transformer_with_Convolutions_ICCV_2023_paper.pdf), [code]
+  - **links**: [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Roy_Exemplar-Free_Continual_Transformer_with_Convolutions_ICCV_2023_paper.pdf), [[code]](https://github.com/CVIR/contracon)
 
 [10] **Class-Incremental Grouping Network for Continual Audio-Visual Learning**  
   - **Authors:** Shentong Mo, Weiguo Pian, Yapeng Tian
